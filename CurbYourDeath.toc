@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: CurbYourDeath
+## Notes: Plays the "Curb Your Enthusiasm" theme song on death.
+## Author: alanpaulprice
+## Version: 1.0.0
+
+CurbYourDeath.lua
